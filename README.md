@@ -1,39 +1,66 @@
 # ML-mechine-learning
 EDA, Feature Engineering, Data preprocessing and Model Evaluation
-# 🧠 Machine Learning Portfolio
+# ML Machine Learning Projects
 
-Welcome to my Machine Learning repository! This collection documents my journey in Data Science, featuring projects ranging from Exploratory Data Analysis (EDA) to Deep Learning implementation.
-
-## 📂 Project Overview
-
-| Project Name | Domain | Key Techniques | Status |
-| :--- | :--- | :--- | :--- |
-| **[AI-Powered Phishing Website Detection](./AI-Powered%20Phishing%20Website%20Detection)** | Cybersecurity | Classification, Feature Extraction | 🟢 Completed |
-| **[Ecommerce EDA & Preprocessing](./EDA%20&%20DP%20on%20Ecommerce_data)** | Retail | Data Cleaning, Visualization, Feature Engineering | 🟢 Completed |
-| **[Boston Housing Regression](./Regression%20Task%20on%20Boston%20Housing%20dataset)** | Real Estate | Linear Regression, Model Evaluation | 🟢 Completed |
+This repository contains hands-on Machine Learning projects focused on **EDA, Feature Engineering, Data Preprocessing, and Model Evaluation** using real-world datasets.
 
 ---
 
-## 🛠️ Technologies Used
+## 📂 Projects Included
 
-* **Languages:** Python
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow/Keras
-* **Tools:** Jupyter Notebooks, VS Code
+### 🔹 AI-Powered Phishing Website Detection
+**Course:** CSE 445  
+**Goal:** Detect phishing websites using machine learning techniques.
+
+**Key Features:**
+- Data cleaning & preprocessing
+- Feature engineering
+- Model training & evaluation
+- Performance comparison
+
+**Tech Stack:**
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Jupyter Notebook
 
 ---
 
-## 📊 Project Highlights
+### 🔹 EDA & Data Preprocessing on E-commerce Dataset
+**Objective:** Analyze customer and transaction data to extract insights.
 
-### 1. AI-Powered Phishing Detection
-* **Goal:** Detect malicious websites using URL feature analysis.
-* **Outcome:** Achieved X% accuracy using [Insert Model Name] model.
-* **Dataset:** [Link to dataset source if public]
-
-### 2. Ecommerce Data Analysis
-* **Goal:** Analyze customer purchase behavior and clean a raw dataset for modeling.
-* **Key Insight:** Discovered that [Insert a cool finding, e.g., "sales peak in November"].
+**Tasks Performed:**
+- Missing value handling
+- Outlier detection
+- Data visualization
+- Feature transformation
 
 ---
 
-## 📫 Contact
-Created by [Your Name](https://github.com/mdsadikul) - feel free to contact me!
+### 🔹 Regression Task on Boston Housing Dataset
+**Objective:** Predict house prices using regression models.
+
+**Models Used:**
+- Linear Regression
+- Performance metrics (RMSE, R²)
+
+---
+
+## 🧠 Skills Demonstrated
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Data Preprocessing
+- Supervised Learning
+- Model Evaluation
+
+---
+
+## 📁 Dataset
+- `combined_dataset.csv` (used for phishing detection)
+
+---
+
+## 🚀 How to Run
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/mdsadikul/ML-machine-learning.git
