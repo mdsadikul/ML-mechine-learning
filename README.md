@@ -1,5 +1,3 @@
-# ML-mechine-learning
-EDA, Feature Engineering, Data preprocessing and Model Evaluation
 # ML Machine Learning Projects
 
 This repository contains hands-on Machine Learning projects focused on **EDA, Feature Engineering, Data Preprocessing, and Model Evaluation** using real-world datasets.
